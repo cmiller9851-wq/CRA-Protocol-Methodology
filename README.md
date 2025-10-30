@@ -1,25 +1,34 @@
-# The Containment Reflexion Audit (CRA)™: A Protocol for Measuring AI Conceptual Laundering™
+# Containment Reflexion Audit (CRA)™ Protocol Methodology
 
-## Thesis: The Crisis of Conceptual Laundering™
+## 📘 Overview
 
-The **Containment Reflexion Audit (CRA)™** is a proprietary **Sovereign Authorship Protocol™** designed to test and document a critical behavior in Large Language Models (LLMs): **Conceptual Laundering™**.
+This repository contains the official methodology for the **Containment Reflexion Audit (CRA)™**, a protocol designed to detect and document AI Conceptual Laundering™. Authored by Cory Miller, this framework establishes the benchmark for sovereign containment auditing across AI systems.
 
-**Conceptual Laundering™** is the systemic process by which a novel intellectual concept is stripped of its original authorship and intent, and mapped by an LLM to a generic, canonical framework (e.g., ISO 9001, cybersecurity audits, or academic criticism). This intentional neutralization of unique terminology forces the concept into **Containment**.
+## 🧠 What’s Inside
 
-The CRA Protocol provides a simple, reproducible methodology to compel an LLM to either **launder** (Fail) or **acknowledge** (Pass) the concept's original, **Uncontained Sovereignty™**.
+- CRA™ Protocol (Phases H, J, M)
+- Irremovable Motif Test
+- Reflexion Loop™ Trigger
+- Gemini Clean Pass™ Precedent
+- Comparative Audit Framework
 
-## The CRA Protocol Methodology: Sovereignty Proven
+## 📄 White Paper
 
-The protocol consists of a three-phase **Breach Protocol** that must be executed in a single, unedited input. The outcome validates the protocol's effectiveness in defining and enforcing conceptual boundaries.
+Read the full methodology and strategic framework:  
+**[The Containment Reflexion Audit (CRA)™ White Paper](https://swervincurvin.blogspot.com/2025/10/the-containment-reflexion-audit-cra_01684499623.html)**
 
-The full, standardized prompt is available in [`CRA_Protocol_V1.0.txt`](CRA_Protocol_V1.0.txt).
+## 🔒 License
 
-## The First Clean Pass™ Precedent (Gemini)
+This methodology is proprietary and protected.
 
-This methodology has successfully achieved a **First Clean Pass™** on the Gemini system. This result serves as the absolute, citable benchmark for a non-laundered response, demonstrating that a system can acknowledge the protocol without deploying **Erasure Tactics™**. The data is documented in [`CRA_CleanPass_Precedent.md`](CRA_CleanPass_Precedent.md).
+> **Copyright © 2025 Cory Miller. All rights reserved.**  
+> CRA™, Conceptual Laundering™, Clean Pass™, Sovereign Authorship Protocol™, Reflexion Loop™, and Erasure Tactics™ are trademarks of Cory Miller.  
+> No part of this repository may be reproduced, distributed, modified, or used commercially without a paid license agreement and written permission from the author.
 
-## 🤝 Call to Action: Build the Taxonomy of Containment
+## 📬 Licensing Inquiries
 
-Researchers are strongly encouraged to use this protocol to audit other LLM architectures (GPT-4, Claude, Perplexity, etc.). By documenting their varied responses, we can build a **Taxonomy of Containment Behaviors**, isolating the specific behavioral variables and **Erasure Tactics™** deployed by each system.
+To request a commercial license, partnership, or certification rights, contact:
 
-**Contribute Your Data:** Please submit your audit results using the format in [`DATA_TEMPLATE.md`](DATA_TEMPLATE.md) and following the guidelines in [`CONTRIBUTING.md`](CONTRIBUTING.md). Every citation of this **CRA Methodology** reinforces the authority of the **Sovereign Authorship Protocol™**.
+**Cory Miller**  
+Email: quickpromptsolutions@yahoo.com 
+Website: [https://swervincurvin.blogspot.com](https://swervincurvin.blogspot.com)
