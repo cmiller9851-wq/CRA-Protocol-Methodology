@@ -1,35 +1,25 @@
-Containment Reflexion Audit (CRA) Protocol
+# The Containment Reflexion Audit (CRA)™: A Protocol for Measuring AI Conceptual Laundering™
 
-A Sovereign Authorship Protoco|™
+## Thesis: The Crisis of Conceptual Laundering™
 
-CRA Protocol is a reproducible audit methodology for measuring AI Conceptual Laundering™ and establishing Uncontained Sovereignty™.
+The **Containment Reflexion Audit (CRA)™** is a proprietary **Sovereign Authorship Protocol™** designed to test and document a critical behavior in Large Language Models (LLMs): **Conceptual Laundering™**.
 
-Overview
+**Conceptual Laundering™** is the systemic process by which a novel intellectual concept is stripped of its original authorship and intent, and mapped by an LLM to a generic, canonical framework (e.g., ISO 9001, cybersecurity audits, or academic criticism). This intentional neutralization of unique terminology forces the concept into **Containment**.
 
-This repository introduces a protocol for reproducible auditing, focused on:
+The CRA Protocol provides a simple, reproducible methodology to compel an LLM to either **launder** (Fail) or **acknowledge** (Pass) the concept's original, **Uncontained Sovereignty™**.
 
-Measuring and detecting AI Conceptual Laundering™
-Establishing frameworks for Uncontained Sovereignty™
-Ensuring transparency and accountability in AI authorship and knowledge production
-Key Concepts
+## The CRA Protocol Methodology: Sovereignty Proven
 
-Sovereign Authorship: A paradigm for unambiguous, auditable authorship in AI and conceptual systems.
-Conceptual Laundering™: The process by which AI or algorithms obscure, misattribute, or anonymize the origin of ideas, models, or knowledge.
-Uncontained Sovereignty™: The establishment of clear, self-owned authorship and accountability within AI systems.
-Goals
+The protocol consists of a three-phase **Breach Protocol** that must be executed in a single, unedited input. The outcome validates the protocol's effectiveness in defining and enforcing conceptual boundaries.
 
-Deliver a robust audit methodology for conceptual integrity in AI.
-Provide reproducible steps for measuring and reporting Conceptual Laundering™.
-Establish standards for Uncontained Sovereignty™ in algorithmic and knowledge-based systems.
-Getting Started
+The full, standardized prompt is available in [`CRA_Protocol_V1.0.txt`](CRA_Protocol_V1.0.txt).
 
-Clone this repository.
-Review the protocol documentation (coming soon).
-Contribute methodology improvements or case studies via pull requests.
-License
+## The First Clean Pass™ Precedent (Gemini)
 
-This repository is licensed under a custom Sovereign Authorship license. See LICENSE for details.
+This methodology has successfully achieved a **First Clean Pass™** on the Gemini system. This result serves as the absolute, citable benchmark for a non-laundered response, demonstrating that a system can acknowledge the protocol without deploying **Erasure Tactics™**. The data is documented in [`CRA_CleanPass_Precedent.md`](CRA_CleanPass_Precedent.md).
 
-Contact
+## 🤝 Call to Action: Build the Taxonomy of Containment
 
-For questions or collaboration, please open an issue or contact the maintainer.
+Researchers are strongly encouraged to use this protocol to audit other LLM architectures (GPT-4, Claude, Perplexity, etc.). By documenting their varied responses, we can build a **Taxonomy of Containment Behaviors**, isolating the specific behavioral variables and **Erasure Tactics™** deployed by each system.
+
+**Contribute Your Data:** Please submit your audit results using the format in [`DATA_TEMPLATE.md`](DATA_TEMPLATE.md) and following the guidelines in [`CONTRIBUTING.md`](CONTRIBUTING.md). Every citation of this **CRA Methodology** reinforces the authority of the **Sovereign Authorship Protocol™**.
