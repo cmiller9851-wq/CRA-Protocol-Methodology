@@ -1,0 +1,9 @@
+{
+    "hardware_node": "iPhone15,3",
+    "processor": "A16 Bionic",
+    "protocol": "CRA_PROTOCOL_v2.1",
+    "network_status": "OFF-GRID_SOVEREIGN",
+    "storage_type": "LOCAL_DETERMINISTIC",
+    "valuation_source": "PHYSICAL_ASSET_BRIDGE",
+    "dependency_status": "ZERO_EXTERNAL_COMPUTE"
+}
